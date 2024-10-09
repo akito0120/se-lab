@@ -1,4 +1,4 @@
-![Maven build](https://github.com/akito0120/se-lab/blob/main/.github/workflows/maven.yml/badge.svg)
+![Maven build](https://github.com/akito0120/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
 
